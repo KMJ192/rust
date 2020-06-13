@@ -1,0 +1,30 @@
+1. 변수 설정
+2. Data Type
+ - 정수 Type
+    Length = 8bit ~ 64bit
+    signed = isize
+    unsigned = usize
+    ex) let _number : i64 = -200;
+          let _number : u64 = 200;
+    i32가 일반적으로 가장 빠름  
+ - 부동 소수점 Type
+    f32, f64
+    f64가 더 정밀함, 속도 비슷
+    default Type => f64
+    (부동소수점 숫자는 IEEE-754의 표준에 따름)
+ - boolean Type
+    ex) let f : bool = false;
+- character Type
+    Single Quote
+    ex) let _char = 'test';
+ - 복합 Type
+    다른 Type의 다양한 값을 하나의 Type으로 튜플화
+ - Array
+    ex) let a = [1, 2, 3, 4, 5];
+3. function 사용
+    함수 선언 : fn 함수명(parameter){}
+4. 제어문
+    if문
+    for문
+    while문
+    loop문
