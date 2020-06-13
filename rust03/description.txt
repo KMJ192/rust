@@ -1,0 +1,4 @@
+rust 입출력 구현
+
+crate를 사용하여 더 많은 기능 가져오기
+Cargo.tomi/dependencies 아래 rand(random함수) 사용하기

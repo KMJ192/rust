@@ -1,0 +1,14 @@
+cargo new 폴더명
+cd 폴더명
+
+//exe파일 생성
+cargo build
+
+//exe파일 실행
+.\target\debug\rust02.exe
+
+//rust파일 run
+cargo run
+
+//Compile이 되는지만 확인
+cargo check
