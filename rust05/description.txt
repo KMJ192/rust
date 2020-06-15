@@ -1,0 +1,4 @@
+Rust Language 소유권 규칙
+1. 소유권
+2. 참조자, 빌림
+3. Slice
