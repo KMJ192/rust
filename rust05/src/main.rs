@@ -1,9 +1,7 @@
 fn main(){
     let mut __string = String::from("Test String"); //String변수 선언 및 Input Data
     __string.push_str(", Test String2"); //String의 뒤에 String붙이기
-
     println!("{}", __string);
-
 
     //Data 이동
     //x의 내용을 y로 이동, x의 내용은 지워짐
@@ -20,7 +18,6 @@ fn main(){
 
     println!("{0}, {1}", s1, s2);
 
-    
     let _s1 = String::from("StringOwnerShip");
     takes_ownsership(_s1);
 
@@ -34,10 +31,10 @@ fn main(){
     println!("{0}, {1}", str1, str2);
 
     //다중 return값
-    let inp_str = "String 및 길이 출력";
-    let (mrstr, mlen) = _param_return(inp_str);
+    let in_str = String::from("String 및 길이 출력");
+    let (re_str, in_len) = _str_len(in_str);
 
-    println!("Get Length{}, {}", )
+    println!("Get Length{}, {}", re_str, in_len);
 
 }
 
