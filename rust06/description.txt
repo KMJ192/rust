@@ -1,0 +1,8 @@
+참조자와 빌림(Refereneces, Borrowing)
+1. 참조자(&) : 어떤 값에 대한 소유권을 넘겨주지 않고 참조할 수 있도록 함.
+    - 가변 참조자 : mut(mutable)키워드 사용
+    - 특정 Scope내 특정 Data에 대한 가변 참조자는 하나만 만들 수 있음
+    - 불변 참조자를 가지고 있을 동안 가변 참조자를 만들 수 없음
+    - 댕글림 Refereneces : Pointer가 있는 언어에서 어떤 Memory를 가리키는 포인터를 보존하는 동안
+                                    그 Memory를 해제 하여 Run Time Error 발생
+    
