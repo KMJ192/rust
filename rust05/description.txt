@@ -5,7 +5,8 @@ Rust Language 소유권 규칙
    - 하나의 값은 하나의 Owner만 가짐
    - Owner가 scope(변수의 범위)밖으로 나가면 그 값도 사라짐
    - let s1 = String::from("Value");
-     let s2 = s1;
+     let s2 = s1;             //이동
+     let s2 = s1.clone();  //복사
      println!("{}", s1); -> Compile Error // s1의 값이 s2로 이동하였으므로 s1은 해제가 된 상태
-   - 크기가 정해져 있는 정수의 경우에는 Compile Error가 발생하지 않음, Copy가 가능
+   - 크기가 정해져 있는 정수의 경우에는 Compile Error가 발생하지 않음, Copy가 가능(clone사용하지 않고 copy)
    - Copy가 가능한 Type -> Bool타입, float형, character형, copy를 갖는 타입으로 이루어진 Tuple
