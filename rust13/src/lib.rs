@@ -1,5 +1,5 @@
 //모듈의 스코프 내에 정의된 코드를 다른 위치에서 찾기
-mod client;
+pub mod client;
 
 #[cfg(test)]
 mod tests {
