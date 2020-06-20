@@ -1,0 +1,12 @@
+Collection
+ 1. vector
+    vector 선언 방법
+        let 변수명 : Vec<Data Type> = Vec::new();
+        let 변수명 = vec![1, 2, 3]; -> 벡터에 Data 직접 입력
+    vector에 Data Push
+        변수명.push(Data);
+    vector의 Data 읽기
+        변수명.get(index);
+        &변수명[index];
+    Complie 타임에 벡터 내에 저장될 타입을 알아야 할 필요 
+    -> 각 요소를 저장하기 위해 Heap Memory가 얼마나 필요한지 알기 위함
