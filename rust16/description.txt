@@ -1,0 +1,10 @@
+Collection
+ - Hash Map
+ - Key Value 타입으로 저장 가능
+ - HashMap 선언
+    use std::Collection::HashMap 사용
+    let 변수명  = HashMap::new();
+ - HashMap Data Insert
+    변수 명.insert(Key, Value);
+ - HashMap Data접근
+    변수명.get(&Key);
