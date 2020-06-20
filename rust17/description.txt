@@ -1,0 +1,2 @@
+Generic Type, Trait, Life Time
+ - 제너릭
