@@ -1,0 +1,5 @@
+Testing
+ - 속성(attribute)이 주석으로 달려진(annotated) 함수
+ - attribute : rust 코드 조각에 대한 메타데이터
+ - #[test] : 함수를 Test함수로 변경
+ - cargo test 실행 -> test속성이 달려있는 함수들을 실행
