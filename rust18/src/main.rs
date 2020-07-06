@@ -1,5 +1,5 @@
 
-pub trait Summarizble{
+pub trait Summarizable{
     fn summary(&self) -> String;
 }
 pub struct NewArticle{
@@ -9,7 +9,7 @@ pub struct NewArticle{
     pub content : String,
 }
 
-impl Summarizble for NewArticle{
+impl Summarizable for NewArticle{
     fn summary(&self) -> String {
         format!("{}, by {} ({})", self.headline, self.author, self.location)
     }
@@ -22,7 +22,7 @@ pub struct Tweet{
     pub retweet : bool
 }
 
-impl Summarizble for Tweet{
+impl Summarizable for Tweet{
     fn summary(&self) -> String{
         format!("{} : {}", self.username, self.content)
     }
