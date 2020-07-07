@@ -53,5 +53,4 @@ fn _count(v : &Vec<i32>, val : i32) -> usize{
     //vector를 순회하며 x의 값과 value값이 동일할 경우 해당 Count를 반환
     v.into_iter().filter(|&&x| x == val).count()
 }
-
 //오너쉽, 대여
