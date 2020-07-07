@@ -1,0 +1,4 @@
+rust 유용한 기능
+
+//vector를 순회하며 x의 값과 value값이 동일할 경우 해당 Count를 반환
+    v.into_iter().filter(|&&x| x == val).count()
