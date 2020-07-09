@@ -47,7 +47,35 @@ struct Point{
     y : i32,
 }
 
+enum Shape{
+    Rectangle {width : u32, height : u32},
+    Square(u32),
+    Circle(f64),
+}
+
+impl Shape{
+    fn area(&self) -> f64{
+        match *self{
+            Shape::Rectangle {width, height} => (width * height) as f64,
+            Shape::Square(ref s) => (s * s) as f64,
+            Shape::Circle(ref r) => 3.14 * (r * r),
+        }
+    }
+}
+
+fn division(x : f64, y : f64) -> Option<f64>{
+    if y == 0.0{
+        None
+    }else{
+        Some(x / y)
+    }
+}
+
 fn main() {
+    let r = Shape::Rectangle{width : 10, height : 70};
+    let s = Shape::Square(10);
+    let c = Shape::Circle(4.5);
+
     let u = Direction::Up(Point{x : 0, y : 1});
     let k = u.match_direction();
     let x = k.destruct();
@@ -59,7 +87,19 @@ fn main() {
     let ref z = u;
 
     if z == v {
-        println!("thea are equal");
+        println!("they are equal");
     }
-    
+
+    let ar = r.area();
+    let aq = s.area();
+    let ac = c.area();
+
+    println!("{}\n{}\n{}", ar, aq, ac);
+
+    let res = division(5.0, 7.0);
+    match res{
+        Some(x) => println!("{:.10}", x), //소수점 아래 10자리 까지
+        None => println!("cannot divide by 0"),
+    }
+
 }
