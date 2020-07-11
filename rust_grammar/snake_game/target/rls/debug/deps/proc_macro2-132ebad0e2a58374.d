@@ -1,0 +1,11 @@
+d:\develop\rust\rust_grammar\snake_game\target\rls\debug\deps\proc_macro2-132ebad0e2a58374.rmeta: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+d:\develop\rust\rust_grammar\snake_game\target\rls\debug\deps\libproc_macro2-132ebad0e2a58374.rlib: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+d:\develop\rust\rust_grammar\snake_game\target\rls\debug\deps\proc_macro2-132ebad0e2a58374.d: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs
+
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\lib.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\parse.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\detection.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\fallback.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.18\src\wrapper.rs:

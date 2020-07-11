@@ -1,5 +1,5 @@
 use piston_window::{rectangle, Context, G2d};
-use piston_window::::types::Color;
+use piston_window::types::Color;
 
 const BLOCK_SIZE : f64 = 25.0; //pixel단위
 
@@ -35,7 +35,7 @@ pub fn draw_rectangle(
         [
             x, y, 
             BLOCK_SIZE * (width as f64),
-            BLOCK_SIZE * (width height as f64),
+            BLOCK_SIZE * (height as f64),
         ],
         con.transform,
         g

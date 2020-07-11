@@ -1,0 +1,10 @@
+d:\develop\rust\rust_grammar\snake_game\target\rls\debug\deps\crc32fast-fa772b045600203d.rmeta: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+d:\develop\rust\rust_grammar\snake_game\target\rls\debug\deps\crc32fast-fa772b045600203d.d: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs:

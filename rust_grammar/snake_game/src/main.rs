@@ -1,5 +1,5 @@
-exturn crate rand;
-exturn crate piston_window;
+extern crate rand;
+extern crate piston_window;
 
 mod draw;
 mod snake;
