@@ -79,5 +79,4 @@ fn main() {
     let r2 = Rectangle{x : 10.10, y : 20.31};
 
     println!("{}, {}", r.area(), r2.area());
-
 }
