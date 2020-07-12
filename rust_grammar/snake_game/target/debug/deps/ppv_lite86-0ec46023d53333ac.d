@@ -1,0 +1,11 @@
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\ppv_lite86-0ec46023d53333ac.rmeta: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\soft.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\types.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\mod.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\sse2.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\libppv_lite86-0ec46023d53333ac.rlib: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\soft.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\types.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\mod.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\sse2.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\ppv_lite86-0ec46023d53333ac.d: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\soft.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\types.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\mod.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\sse2.rs
+
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\lib.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\soft.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\types.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\mod.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.8\src\x86_64\sse2.rs:

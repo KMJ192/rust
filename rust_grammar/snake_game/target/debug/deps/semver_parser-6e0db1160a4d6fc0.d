@@ -1,0 +1,11 @@
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\semver_parser-6e0db1160a4d6fc0.rmeta: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\libsemver_parser-6e0db1160a4d6fc0.rlib: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\semver_parser-6e0db1160a4d6fc0.d: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\lib.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\version.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\range.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\common.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\semver-parser-0.7.0\src\recognize.rs:

@@ -1,0 +1,12 @@
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\cc-5782e58d935ab71a.rmeta: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\registry.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\winapi.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\com.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\setup_config.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\windows_registry.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\libcc-5782e58d935ab71a.rlib: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\registry.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\winapi.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\com.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\setup_config.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\windows_registry.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\cc-5782e58d935ab71a.d: C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\lib.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\registry.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\winapi.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\com.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\setup_config.rs C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\windows_registry.rs
+
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\lib.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\registry.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\winapi.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\com.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\setup_config.rs:
+C:\Users\MyeongJun\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.58\src\windows_registry.rs:
