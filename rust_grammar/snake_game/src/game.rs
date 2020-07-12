@@ -14,7 +14,7 @@ const MOVING_PERIOD : f64 = 0.1;
 const RESTART_TIME : f64 = 1.0;
 
 pub struct Game{
-    snake : Snake;
+    snake : Snake,
 
     food_exists : bool,
     food_x : i32,
@@ -49,11 +49,11 @@ impl Game {
             Key::Up => Some(Direction::Up),
             Key::Down => Some(Direction::Down),
             Key::Left => Some(Direction::Left),
-            Key::Rigth => Some(Direction::Rigth),
+            Key::Right => Some(Direction::Right),
             _ => None
-        }
+        };
 
-        if dir.unwrap() == self.snake.head_direction().oppsite(){
+        if dir.unwrap() == self.snake.head_direction().opposite(){
             return;
         }
 
@@ -69,11 +69,11 @@ impl Game {
 
         draw_rectangle(BORDER_COLOR, 0, 0, self.width, 1, con, g);
         draw_rectangle(BORDER_COLOR, 0, self.height - 1, self.width, 1, con, g);
-        draw_rectangle(BORDER_COLOR, 0, 0, 1, self.heightm, con, g);
+        draw_rectangle(BORDER_COLOR, 0, 0, 1, self.height, con, g);
         draw_rectangle(BORDER_COLOR, self.width - 1, 0, 1, self.height, con, g);
 
         if self.game_over{
-            draw_rectangle(GAMEOVER_COLOR, 0, 0 self.width, self.height, con, g);
+            draw_rectangle(GAMEOVER_COLOR, 0, 0, self.width, self.height, con, g);
         }
     }
 
@@ -84,10 +84,6 @@ impl Game {
                 self.restart();
             }
             return;
-        }
-
-        if !self.food_exists{
-            self.add_food();
         }
 
         if !self.food_exists{
@@ -117,6 +113,7 @@ impl Game {
 
     fn add_food(&mut self) {
         let mut rng = thread_rng();
+
         let mut new_x = rng.gen_range(1, self.width - 1);
         let mut new_y = rng.gen_range(1, self.width - 1);
         while self.snake.overlap_tail(new_x, new_y){
@@ -131,10 +128,19 @@ impl Game {
     fn update_snake(&mut self, dir : Option<Direction>){
         if self.check_if_snake_alive(dir){
             self.snake.move_forward(dir);
-            self.check_if_snake_alive();
+            self.check_eating();
         }else{
             self.game_over = true;
         }
         self.waiting_time = 0.0;
+    }
+
+    fn restart(&mut self){
+        self.snake = Snake::new(2, 2);
+        self.waiting_time = 0.0;
+        self.food_exists = true;
+        self.food_x = 6;
+        self.food_y = 4;
+        self.game_over = false;
     }
 }

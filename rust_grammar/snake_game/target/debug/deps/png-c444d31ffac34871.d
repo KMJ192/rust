@@ -1,0 +1,14 @@
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\png-c444d31ffac34871.rmeta: C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\lib.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\chunk.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\common.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\mod.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\stream.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\zlib.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\encoder.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\filter.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\traits.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\utils.rs
+
+D:\develop\rust\rust_grammar\snake_game\target\debug\deps\png-c444d31ffac34871.d: C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\lib.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\chunk.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\common.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\mod.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\stream.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\zlib.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\encoder.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\filter.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\traits.rs C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\utils.rs
+
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\lib.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\chunk.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\common.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\mod.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\stream.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\decoder\zlib.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\encoder.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\filter.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\traits.rs:
+C:\Users\82102\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.16.6\src\utils.rs:

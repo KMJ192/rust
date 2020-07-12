@@ -13,7 +13,7 @@ pub enum Direction{
     Up,
     Down,
     Left, 
-    Rigth,
+    Right,
 }
 
 //Direction에 대한 trait 생성
@@ -23,8 +23,8 @@ impl Direction {
         match *self{
             Direction::Up => Direction::Down,
             Direction::Down => Direction::Up,
-            Direction::Left => Direction::Rigth,
-            Direction::Rigth => Direction::Left, 
+            Direction::Left => Direction::Right,
+            Direction::Right => Direction::Left, 
         }
     }
 }
@@ -49,7 +49,7 @@ impl Snake{
         body.push_back(Block{x : x + 1, y});
         body.push_back(Block{x, y});
         Snake{
-            direction : Direction::Rigth,
+            direction : Direction::Right,
             body,
             tail : None,
         }
@@ -88,7 +88,7 @@ impl Snake{
                 x : last_x - 1,
                 y : last_y,
             },
-            Direction::Rigth => Block{
+            Direction::Right => Block{
                 x : last_x + 1,
                 y : last_y,
             },
@@ -116,7 +116,7 @@ impl Snake{
             Direction::Up => (head_x, head_y - 1),
             Direction::Down => (head_x, head_y + 1),
             Direction::Left => (head_x -1, head_y),
-            Direction::Rigth => (head_x + 1, head_y),
+            Direction::Right => (head_x + 1, head_y),
         }
     }
     pub fn restore_tail(&mut self){
