@@ -1,7 +1,11 @@
-#![allow(dead_code)] //사용하지 않는 코드에 대한 경고 제거
+#![allow(dead_code)] //사용하지 않는 코드에 대한 경고를 제거하는 annotation 
 
-//trait : 특정한 타입이 갖고 다른 타입들과 함께 공유할 수도 있는 기능
-
+//trait : 공유 동작을 정의
+//러스트 컴파일러에 특정한 타입이 갖고 다른 타입들과 함께 공유할 수도 있는 기능
+//Interface와 유사한 기능.
+//제너릭타입 Parameter를 사용하는 상황에서 Compile Time에 해당 제너릭 타입이 어떤 \
+//트레잇을  구현한 타입이어야 함을 명시, 그러한 상황에서 우리가 사용하길 원하는 동작을 갖도록 \
+//하기 위해 트레잇 바운드를 사용할 수 있음.
 #[derive(Debug)]
 enum Direction{
     Up(Point),
@@ -18,6 +22,7 @@ enum Keys{
     RightKey(String),
 }
 
+//self : Method가 호출되고 있는 Struct의 Instance
 impl Direction{
     //self -> Direction
     fn match_direction(&self) -> Keys {
@@ -76,11 +81,11 @@ fn main() {
     let s = Shape::Square(10);
     let c = Shape::Circle(4.5);
 
-    let u = Direction::Up(Point{x : 0, y : 1});
+    let u = Direction::Down(Point{x : 0, y : 1});
     let k = u.match_direction();
     let x = k.destruct();
-    println!("{:?}", k);
-    println!("{}", x);
+    println!("march_direction : {:?}", k);
+    println!("destruct : {}", x);
 
     let u = 10;
     let v = &u;
@@ -101,5 +106,4 @@ fn main() {
         Some(x) => println!("{:.10}", x), //소수점 아래 10자리 까지
         None => println!("cannot divide by 0"),
     }
-
 }

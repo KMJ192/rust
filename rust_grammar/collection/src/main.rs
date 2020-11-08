@@ -1,4 +1,4 @@
-#[derive(Debug)]
+#[derive(Debug)] //enum Example을 Debug로 사용할 수 있도록 하는 Annotation
 enum Example{
     Float(f64),
     Int(i32),
